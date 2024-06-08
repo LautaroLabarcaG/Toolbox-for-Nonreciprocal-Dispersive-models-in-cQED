@@ -1,5 +1,5 @@
 # Toolbox-for-Nonreciprocal-Dispersive-models-in-cQED
-Codes to reproduce main result papers of arxiv.2312.08354
+Codes to reproduce main results of arxiv.2312.08354
 
 ## Example with Capacitive Filter
 
