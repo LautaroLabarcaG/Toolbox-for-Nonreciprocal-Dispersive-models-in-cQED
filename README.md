@@ -5,7 +5,7 @@ Any comments or doubts regarding the codes please reach Lautaro at labl2714@ushe
 
 ## Example with Capacitive Filter
 
-The responses were obtained with the Mathematica Notebook "Example-with-capacitor-filter-response-chirality-condition.nb". Also there, the chirality condition given by Eq. (9) was obtained leading to Eqs (22,23). Then, the analytical expressions were typed onto Python functions, and used to get all relevant matrices developed in appendices C and D to construct both the effective and exact Hamiltonians. In this case we found more convenient to use the admittance response, but any of the two is equally valid in the dispersive regime.
+The responses were obtained with the Mathematica Notebook "Example-with-capacitor-filter-response-chirality-condition.nb". Also there, the chirality condition given by Eq. (9) was obtained leading to Eqs (22,23). Then, the analytical expressions were typed onto Python functions, and used to get all relevant matrices developed in appendices C and D to construct both the effective and exact Hamiltonians. In this case we found more convenient to use the admittance response, but any of the two is equally valid and are equivalent in the dispersive regime.
 
 ## Example with resonator filter
 
