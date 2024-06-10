@@ -1,0 +1,1 @@
+(Sqrt[3]*R*wj*(-((Cj + Cjr)*(Cg + Crs)) + (Cjr*Cr*Crs + Cj*(Cjr + Cr)*Crs + Cg*Cjr*(Cr + Crs) + Cg*Cj*(Cjr + Cr + Crs))*Lr*wj^2)*Cot[phi/2])/(Cj + Cjr - (Cjr*(Cr + Crs) + Cj*(Cjr + Cr + Crs))*Lr*wj^2)
