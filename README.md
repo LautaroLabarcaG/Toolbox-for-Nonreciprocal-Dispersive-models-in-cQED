@@ -12,3 +12,7 @@ The responses were obtained with the Mathematica Notebook "Example-with-capacito
 The analytical form of the response was obtained with the Mathematica Notebook "Example-resonator-filter-analytical-response", saved as a .wbl file. Using this, the series decomposition Eq. (A1) is numerically obtained from Mathematica. We found the TransferFunction class of Mathematica more accurate than Sympy's equivalent. Then, the values are read and the quantum dynamics are obtained by truncating the Hilbert space to a maximum of 4 photons (5 to check convergence). The Impedance response was used, as it was found to be a convenient choice, due to the simplified resulting exact Hamiltonian due to the lack of poles at infinity, but once again, both approaches are valid and equivalent in the dispersive regime.
 
 The workflow is: Input values in "Example-with-resonator-filter" and save them as a values file. Then, run "Example-resonator-filter-get-poles-As-Bs-wjchiral", which will also give you the frequency of the qubits $\overline{w}_i$ of Eq. (6) to get the desired hopping dynamics. Finally, run the whole of "Example-with-resonator-filter" and you will get the plots of the resulting dynamics.
+
+## Appendix-Scattering-Responses
+
+Code to reproduce Fig. 13 in Appendix G5. As above, the impedance response is obtained in mathematica and then loaded onto the python. The workflow is: Choose parameters, run the Mathematica Notebook "Example-resonator-filter-get-poles-As-Bs-wjchiral", then run all the python file.
