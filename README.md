@@ -15,4 +15,4 @@ The workflow is: Input values in "Example-with-resonator-filter" and save them a
 
 ## Appendix-Scattering-Responses
 
-Code to reproduce Fig. 13 in Appendix G5. As above, the impedance response is obtained in mathematica and then loaded onto the python. The workflow is: Choose parameters, run the Mathematica Notebook "Example-resonator-filter-get-poles-As-Bs-wjchiral", then run all the python file.
+Code to reproduce Fig. 13 in Appendix G5. As above, the impedance response is obtained in mathematica and then loaded onto the python. The workflow is: choose parameters in the python notebook, run the Mathematica Notebook "Example-resonator-filter-get-poles-As-Bs-wjchiral", then run all the python notebook.
