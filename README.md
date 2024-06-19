@@ -16,3 +16,5 @@ The workflow is: Input values in "Example-with-resonator-filter" and save them a
 ## Appendix-Scattering-Responses
 
 Code to reproduce Fig. 13 in Appendix G5. As above, the impedance response is obtained in mathematica and then loaded onto the python. The workflow is: choose parameters in the python notebook, run the Mathematica Notebook "Example-resonator-filter-get-poles-As-Bs-wjchiral", then run all the python notebook.
+
+To compare with the simplified effective response, we use Eq. (8) to get the effective coupling between the filter resonators. This is done computing the impedance seen from the resonators, which is in form equivalent to the one shown in Fig. 2 (i,b) with Cg->0. 
