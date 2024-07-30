@@ -1,7 +1,7 @@
 # Toolbox-for-Nonreciprocal-Dispersive-models-in-cQED
 Codes to reproduce main results of arxiv.2312.08354. You will need access to Mathematica to reproduce the results.
 
-Any comments or doubts regarding the codes please reach Lautaro at labl2714@usherbrooke.ca
+Any comments or questions regarding the codes please reach Lautaro at labl2714@usherbrooke.ca
 
 ## Example with Capacitive Filter
 
