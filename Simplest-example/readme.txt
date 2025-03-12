@@ -8,6 +8,3 @@ major difficulties.
 Files to run the jupyter notebook are already uploaded.
 
 packages.txt contains the packages of the used virtual environement, however exact replication is by no means strictly necessary.
-
-Disclaimer: Any numerical errors that may be found are exclusively related to the writing of the code. 
-The formulas and constructions provided in the article are correct, as proven there.
