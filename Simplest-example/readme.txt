@@ -6,3 +6,5 @@ The objective is to give an idea on how a real workflow would look like. Further
 major difficulties. 
 
 Files to run the jupyter notebook are already loaded onto the folders.
+
+packages.txt contains the packages of the used virtual environement, however exact replication is by no means strictly necessary.
